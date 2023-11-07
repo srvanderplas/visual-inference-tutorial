@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+## Outline
+
+1. Different approaches to hypothesis testing
+
+I'm going to need someone more theory/math heavy than me. 
+    - NSHT
+        - fisher
+        - nehman-pearson
+    - Bayes
+    - visual inference
+    
+    Comparing and contrasting these is going to be gross and I'm not honestly sure how visual inference fits in fundamentally...
+    
+2. Setting up a hypothesis test - parallel version(s)
+
+3. Collecting the data
+
+4. Evaluating the data
+
+5. General Discussion
