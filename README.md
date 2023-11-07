@@ -1,1 +1,1 @@
-# visual-inference-tutorial
+# Visual Inference Tutorial
